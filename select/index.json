@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "水の星へ愛をこめて / with 寺井尚子",
+  "base_artist": "森口博子",
+  "createdAt": "2026-04-02T05:01:49.964910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "MIO",
+      "has_synced": false,
+      "path": "select/01_水の星へ愛をこめて_MIO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/02_水の星へ愛をこめて_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "MIQ",
+      "has_synced": false,
+      "path": "select/03_水の星へ愛をこめて_MIQ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/04_水の星へ愛をこめて_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "Moriguchi, Hiroko",
+      "has_synced": true,
+      "path": "select/05_水の星へ愛をこめて_Moriguchi,_Hiroko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "Moriguchi, Hiroko",
+      "has_synced": true,
+      "path": "select/06_水の星へ愛をこめて_Moriguchi,_Hiroko.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "Hiroko Moriguchi",
+      "has_synced": true,
+      "path": "select/07_水の星へ愛をこめて_Hiroko_Moriguchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "Hiroko Moriguchi",
+      "has_synced": true,
+      "path": "select/08_水の星へ愛をこめて_Hiroko_Moriguchi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/09_水の星へ愛をこめて_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "水の星へ愛をこめて with 寺井尚子",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/10_水の星へ愛をこめて_with_寺井尚子_森口博子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水の星へ愛をこめて",
+      "artist": "森口 博子",
+      "has_synced": false,
+      "path": "select/pl_01_水の星へ愛をこめて_森口_博子.txt"
+    }
+  ]
+}
